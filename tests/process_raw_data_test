@@ -1,0 +1,3 @@
+def test_time_horizon_greater_period_size() -> None:
+    """"""
+    
